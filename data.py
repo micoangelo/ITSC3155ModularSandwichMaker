@@ -1,32 +1,32 @@
 recipes = {
     "small": {
         "ingredients": {
-            "bread": 2,  ## slice
-            "ham": 4,  ## slice
-            "cheese": 4,  ## ounces
+            "bread": 2,
+            "ham": 4,
+            "cheese": 4,
         },
         "cost": 1.75,
     },
     "medium": {
         "ingredients": {
-            "bread": 4,  ## slice
-            "ham": 6,  ## slice
-            "cheese": 8,  ## ounces
+            "bread": 4,
+            "ham": 6,
+            "cheese": 8,
         },
         "cost": 3.25,
     },
     "large": {
         "ingredients": {
-            "bread": 6,  ## slice
-            "ham": 8,  ## slice
-            "cheese": 12,  ## ounces
+            "bread": 6,
+            "ham": 8,
+            "cheese": 12,
         },
         "cost": 5.5,
     }
 }
 
 resources = {
-    "bread": 12,  ## slice
-    "ham": 18,  ## slice
-    "cheese": 24,  ## ounces
+    "bread": 12,
+    "ham": 18,
+    "cheese": 24,
 }
